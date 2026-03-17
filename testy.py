@@ -1,0 +1,2 @@
+zmienna = 'test'
+print(zmienna)
